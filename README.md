@@ -1,4 +1,4 @@
-# FastAPI Web
+# FastAPI - API com SQL Alchemy
 
 Este projeto é uma API desenvolvida no framework **FastAPI** que utiliza **SQLAlchemy ORM** para interação com banco de dados.
 
